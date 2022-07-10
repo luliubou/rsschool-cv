@@ -26,6 +26,7 @@ Experience in:
 | *Itransition/A1QA*     | *2012-2015*     |
 
 ### Code sample
+```
 <html>
 
 <body>
@@ -41,7 +42,7 @@ Experience in:
 </body>
 
 </html>
-
+```
 
 ## Additional info
 ### Education
