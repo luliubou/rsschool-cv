@@ -4,9 +4,14 @@ h1 {
     padding: 20px;
 }
 
-h2 {
-    margin-bottom: 20px;
-    padding: 20px;
+h2, h3, h4 {
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+p {
+    margin-bottom: 5px;
+    padding: 10px;  
 }
 
 .main {
@@ -24,11 +29,22 @@ h2 {
 .photo {
     float: left;
     width: 40%;
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 5px;
+
 }
 
 .sum-info {
     float: left;
     width: 60%;
+}
+
+.table {
+    margin: 10px;
+    padding: 5px;    
 }
 
 .info {
@@ -40,13 +56,23 @@ h2 {
     align-items: stretch;
     float: left;
     width: 30%;
-    min-height: 100vh;
+    min-height: 150vh;
+}
+
+.about-me {
+    margin: 2px;
+    padding: 2px; 
 }
 
 .right-pannel {
     align-items: stretch;
     float: right;
     width: 70%;
+}
+
+.code {
+    background-color: white;
+    margin: 10px;
 }
 
 .footer {
