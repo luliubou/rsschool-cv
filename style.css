@@ -1,0 +1,91 @@
+h1 {
+    color: rgb(72, 54, 30);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+h2, h3, h4 {
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+p {
+    margin-bottom: 5px;
+    padding: 10px;  
+}
+
+.main {
+    background-color: rgb(249, 242, 233);
+    position: relative;
+    padding: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 10px;
+}
+
+.upper-block {
+    overflow: hidden;
+}
+
+.photo {
+    float: left;
+    width: 40%;
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.sum-info {
+    float: left;
+    width: 60%;
+}
+
+.table {
+    margin: 10px;
+    padding: 5px;    
+}
+
+.info {
+    overflow: hidden;
+}
+
+.left-pannel {
+    background-color: rgb(188, 174, 155);
+    align-items: stretch;
+    float: left;
+    width: 30%;
+    min-height: 150vh;
+}
+
+.about-me {
+    margin: 2px;
+    padding: 2px; 
+}
+
+.right-pannel {
+    align-items: stretch;
+    float: right;
+    width: 70%;
+}
+
+.code {
+    background-color: white;
+    margin: 10px;
+}
+
+.footer {
+    background-color: rgb(249, 242, 233);
+    padding: 20px;
+    padding-bottom: 40px;
+    font-size: 14px;
+  }
+
+  .footer-git {
+    float: right;
+  }
+
+  .footer-rsschool {
+    float: left;
+  }
